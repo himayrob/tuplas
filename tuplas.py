@@ -1,4 +1,4 @@
-direccion = input ("dame las direcciones, escriba x si no llena los csmpod")
+direccion = input ("dame las direcciones, escriba x si no llena los campos")
 input ("dame las direcciones")}
 input ("dame las direcciones")
 input ("dame las direcciones")
@@ -13,8 +13,7 @@ input ("escribe los cursos")
 imformacion laboral =input ("dame tu imforcaion laboral")
 input ("dame tu imforcaion laboral")
 input ("dame tu imforcaion laboral")
-input ("dame tu imforcaion laboral
-")
+input ("dame tu imforcaion laboral")
 tuple:print direccion
 tuple:print imformacion
 tuple:print cursos

@@ -13,8 +13,8 @@ input ("escribe los cursos")
 imformacion laboral =input ("dame tu imforcaion laboral")
 input ("dame tu imforcaion laboral")
 input ("dame tu imforcaion laboral")
-input ("dame tu imforcaion laboral")
-tuple:print direccion
+input ("darint direccion
 tuple:print imformacion
 tuple:print cursos
-tuple:print imformacion laboral
+tuple:print imformacion laborme tu imforcaion laboral")
+tuple:pal
